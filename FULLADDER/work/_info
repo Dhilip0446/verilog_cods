@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/HP/desktop/verilogassignment/FULLADDER
+vfull_add
+Z1 !s110 1696230740
+!i10b 1
+!s100 C:@[=<ZEz8Mb??Gek;::k0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Icb]j:X?D@0@<F4MPNG[`i0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694603007
+8full_add.v
+Ffull_add.v
+!i122 0
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1696230740.000000
+!s107 full_add.v|tb_full_add.v|
+Z6 !s90 -reportprogress|300|tb_full_add.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_full_add
+R1
+!i10b 1
+!s100 zKJU`nQnahIWZl_oY=KMD2
+R2
+IW]CF^fd5kggE2j_I[JH2T3
+R3
+R0
+w1694603086
+8tb_full_add.v
+Ftb_full_add.v
+!i122 0
+L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 full_add.v|tb_full_add.v|
+R6
+!i113 1
+R7
