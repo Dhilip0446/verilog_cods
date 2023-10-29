@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/HP/desktop/verilogassignment/UPCOUNTERS
+vgraycounter
+!s110 1697004198
+!i10b 1
+!s100 4=VTUcjJ_BRabcTCLiFa43
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IF6D]HI?lQ=lPQ=KBiA_^W2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697004192
+8gray_counter.v
+Fgray_counter.v
+!i122 2
+Z3 L0 1 12
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1697004198.000000
+!s107 gray_counter.v|
+!s90 -reportprogress|300|gray_counter.v|
+!i113 1
+Z5 tCvgOpt 0
+vupcounter
+Z6 !s110 1696831615
+!i10b 1
+!s100 IAbD5QzF05;Y64gXdalO71
+R1
+IYoj?X6<R`TU4X?dURf7Pm3
+R2
+R0
+w1692775668
+8upcounter.v
+Fupcounter.v
+!i122 0
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1696831615.000000
+Z8 !s107 upcounter.v|upcounter_tb.v|
+Z9 !s90 -reportprogress|300|upcounter_tb.v|
+!i113 1
+R5
+vupcounter_tb
+R6
+!i10b 1
+!s100 egCAWU9752NVT?4@4fZ6I0
+R1
+IPZY4<<VM16c[DIjj1G[aX0
+R2
+R0
+w1692774158
+8upcounter_tb.v
+Fupcounter_tb.v
+!i122 0
+L0 2 16
+R4
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R5
